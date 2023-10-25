@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Khattri</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-
-
-
-
-
-<p align="left"> <a href="https://twitter.com/krishna_k271" target="blank"><img src="https://img.shields.io/twitter/follow/krishna_k271?logo=twitter&style=for-the-badge" alt="krishna_k271" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Frontend Dev, Firebase**
