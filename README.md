@@ -32,6 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnakhattri-27&show_icons=true&locale=en&layout=compact" alt="krishnakhattri-27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakhattri-27&show_icons=true&locale=en" alt="krishnakhattri-27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakhattri-27&" alt="krishnakhattri-27" /></p>
