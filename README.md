@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Khattri</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **Frontend Dev, Firebase**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **krishnakhattri24@gmail.com**
   
