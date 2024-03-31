@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Developing full-stack web applications using modern technologies and frameworks.<br>👯 I’m looking to collaborate on: Any open-source project to improve my skills and contribute positively to its development.🤝 I’m looking for help with<br>💬 Ask me about Full-stack development, web technologies, or anything related to software engineering.<br>⚡ Fun fact 
+🔭 I’m currently working on Developing full-stack web applications using modern technologies and frameworks.<br>👯 I’m looking to collaborate on any open-source project to improve my skills and contribute positively to its development.<br>💬 Ask me about Full-stack development, web technologies, or anything related to software engineering.<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
